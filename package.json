@@ -1,0 +1,21 @@
+{
+  "name": "projetotest-github",
+  "version": "1.0.0",
+  "description": "Códigos do primeiro projeto que vou subir no github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiraslabDEV/NiraslabDEV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/NiraslabDEV/NiraslabDEV/issues"
+  },
+  "homepage": "https://github.com/NiraslabDEV/NiraslabDEV#readme"
+}
+
